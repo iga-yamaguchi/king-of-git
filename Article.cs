@@ -1,4 +1,4 @@
-﻿namespace SampleMvc.Models
+namespace SampleMvc.Models
 {
     public class Article
     {
