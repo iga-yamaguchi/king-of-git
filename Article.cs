@@ -1,7 +1,7 @@
 namespace SampleMvc.Models
 {
     /// <summary>
-    /// è¨˜äº‹
+    /// ‹LŽ–
     /// </summary>
     public class Article
     {
