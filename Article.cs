@@ -11,10 +11,6 @@ namespace SampleMvc.Models
 
         public string Content { get; set; }
 
-<<<<<<< HEAD
         public IEnumerable<string> RelatedLinks { get; set; }
-=======
-        public DateTime Created { get; set; }
->>>>>>> conflict-b
     }
 }
