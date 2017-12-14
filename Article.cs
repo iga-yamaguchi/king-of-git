@@ -10,5 +10,7 @@ namespace SampleMvc.Models
         public string Title { get; set; }
 
         public string Content { get; set; }
+
+        public IEnumerable<string> RelatedLinks { get; set; }
     }
 }
